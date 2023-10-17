@@ -13,6 +13,17 @@
 5. 病例管理：系统医护人员可查看历史病例及在诊病例，并可新增、编辑或删除病例信息，对在诊会员可进行复诊操作；另外系统会员可查看个人病例详细信息。
 6. 预约管理：系统医护人员可查看当天会员的预约情况，或更新预约状态等。系统会员可选择医生发起预约，并可查看历史预约记录。
 
+#### 系统截图
+![image](https://github.com/SunBin-attr/teeth/assets/39330737/0b630d92-8a4d-4fd1-8334-a684ef308dc8)
+![image](https://github.com/SunBin-attr/teeth/assets/39330737/41233433-9a2b-45b6-bf38-0c864c08cd90)
+![image](https://github.com/SunBin-attr/teeth/assets/39330737/68696f52-0a13-45d6-b601-e14342353613)
+![image](https://github.com/SunBin-attr/teeth/assets/39330737/f02e549c-cb9b-4b24-b0fb-50de44508b08)
+![image](https://github.com/SunBin-attr/teeth/assets/39330737/93660167-b99f-419a-a73f-0608fe7abd04)
+![image](https://github.com/SunBin-attr/teeth/assets/39330737/ec50fa25-53a7-442b-971a-9192998f1982)
+![image](https://github.com/SunBin-attr/teeth/assets/39330737/adb37761-e57f-4231-a092-776907e742b3)
+![image](https://github.com/SunBin-attr/teeth/assets/39330737/4ae6873a-2f95-43e2-8e5e-28a91431cbbb)
+![image](https://github.com/SunBin-attr/teeth/assets/39330737/10255902-bbe2-4039-8326-e67f192e1051)
+![image](https://github.com/SunBin-attr/teeth/assets/39330737/12a30bae-d155-46ca-929c-db51c82939e3)
 
 
 #### 使用说明
